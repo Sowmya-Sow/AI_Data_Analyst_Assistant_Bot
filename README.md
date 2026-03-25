@@ -6,9 +6,13 @@ The AI Data Analyst Assistant Bot is designed to bridge the gap between data ava
 
 Objectives
 🔹 Enable natural language interaction with dashboard data 
+
 🔹 Simplify interpretation of KPIs and performance metrics
+
 🔹 Provide consistent, insight-driven responses
+
 🔹 Reduce dependency on manual dashboard navigation
+
 🔹 Support faster and more informed decision-making
 
 Key Capabilities
