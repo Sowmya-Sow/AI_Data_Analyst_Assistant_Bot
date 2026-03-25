@@ -1,6 +1,7 @@
 # AI_Data_Analyst_Assistant_Bot
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 ![Tech](https://img.shields.io/badge/Botpress-NLP-blue)
+
 AI Data Analyst Assistant Bot is an NLP-powered conversational assistant built using Botpress that enables users to interact with dashboard data, interpret KPIs, and derive actionable business insights through natural language queries.
 
 Overview
