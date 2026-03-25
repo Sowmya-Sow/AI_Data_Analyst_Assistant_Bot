@@ -37,11 +37,14 @@ Responds to user queries using natural language understanding.
 5. Recommendation Support
 Provides actionable suggestions based on observed data patterns.
 
-System Architecture
+System Architecture and bot output
 
-User → Capture Input → AI Processing → Response → Loop<img width="1912" height="1014" alt="Screenshot 2026-03-24 111649"
+User → Capture Input → AI Processing → Response → Loop
+
+<img width="1912" height="1014" alt="Screenshot 2026-03-24 111649" src="https://github.com/user-attachments/assets/b47f52d3-aace-46e4-b949-74806e4cd777" />
 
 The architecture follows a modular conversational pipeline with four key layers: user interaction, input capture, AI processing, and response delivery. The system uses a loop-based design to support continuous querying, enabling users to interact dynamically with dashboard data.
+
 
 Technology Stack
 
