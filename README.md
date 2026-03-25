@@ -36,13 +36,9 @@ Provides actionable suggestions based on observed data patterns.
 
 System Architecture
 
-User → Capture Input → AI Processing → Response → Loop<img width="1912" height="1014" alt="Screenshot 2026-03-24 111649" src="https://github.com/user-attachments/assets/87d7d121-d323-4d5f-b199-c5d86ac979cf" />
-<img width="1813" height="872" alt="Screenshot 2026-03-24 111040" src="https://github.com/user-attachments/assets/03fc1a81-c69e-47c8-9374-2ecd942f0c29" />
-<img width="1913" height="1019" alt="Screenshot 2026-03-24 105747" src="https://github.com/user-attachments/assets/a6375a62-a4fd-41ca-87a3-acff009db369" />
-<img width="1905" height="1018" alt="Screenshot 2026-03-24 105636" src="https://github.com/user-attachments/assets/be7eda1c-1bac-4bb0-8b1d-07c13b3046f2" />
+User → Capture Input → AI Processing → Response → Loop<img width="1912" height="1014" alt="Screenshot 2026-03-24 111649"
 
-
-The architecture follows a modular conversational pipeline with four key layers: user interaction, input capture, AI processing, and response delivery. The system uses a loop-based design to support continuous querying, enabling users to interact dynamically with dashboard data
+The architecture follows a modular conversational pipeline with four key layers: user interaction, input capture, AI processing, and response delivery. The system uses a loop-based design to support continuous querying, enabling users to interact dynamically with dashboard data.
 
 Technology Stack
 
@@ -72,7 +68,10 @@ For Business Users
 
 🔹 Supports quicker, data-driven decisions
 
-Live Demo
+Live Demo and Bot Output
+
+<img width="1912" height="1014" alt="Screenshot 2026-03-24 111649" src="https://github.com/user-attachments/assets/95796dbe-bd84-48aa-8493-10d45ecdc057" />
+
 
 Access the deployed assistant here:
 
