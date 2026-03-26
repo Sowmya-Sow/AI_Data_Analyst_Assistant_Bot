@@ -77,10 +77,6 @@ Live Demo and Bot Output
 <img width="1912" height="1014" alt="Screenshot 2026-03-24 111649" src="https://github.com/user-attachments/assets/95796dbe-bd84-48aa-8493-10d45ecdc057" />
 
 
-Access the deployed assistant here:
-
-🔗 https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/03/24/03/20260324032051-F2H6U6QG.json
-
 Key Takeaway
 
 🔹 The value of analytics lies not only in data visualization, but in the ability to make insights accessible, interpretable, and actionable.
